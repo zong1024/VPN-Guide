@@ -86,4 +86,4 @@ vless://...
 
 <em>Written By <strong>ZONGRUICHD</strong></em>
 
-<https://zongtech.xyz>
+<https://zongtech.xyz/2026/06/05/vpn-guide-hexo-post-real/>
