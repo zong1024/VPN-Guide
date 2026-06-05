@@ -82,8 +82,8 @@ vless://...
 
 ---
 
-海内存知己，天涯若比邻。
+<em>海内存知己，天涯若比邻。</em>
 
-Written By **ZONGRUICHD**
+<em>Written By <strong>ZONGRUICHD</strong></em>
 
 <https://zongtech.xyz>
